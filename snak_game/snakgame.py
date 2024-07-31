@@ -126,7 +126,7 @@ class Snakgame:
         
     
     def _ui_update(self):
-        self.display.fill(WHITE)
+        self.display.fill(GREEN)
         
         for pt in self.snak:
             pygame.draw.rect(self.display, RED1 ,pygame.Rect(pt.x , pt.y , BLOCK_SIZE , BLOCK_SIZE))
