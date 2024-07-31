@@ -21,7 +21,7 @@ honestly i made this game when i pass the python crash cours so download the cou
 
 ![App Screenshot](https://github.com/ari420/B_ari_snakgame_python/blob/main/snake11.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ari420/B_ari_snakgame_python/blob/main/snake12.png)
 
 
 ## Support
